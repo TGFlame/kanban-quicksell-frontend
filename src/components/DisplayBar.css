@@ -1,0 +1,13 @@
+.popup > div {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: space-between;
+    border: none;
+    
+  }
+
+  .pop-select
+  {
+    border:   black thin 1px;
+    width: 110px;
+  }
